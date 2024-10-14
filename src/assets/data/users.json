@@ -1,0 +1,64 @@
+{
+    "users": [
+        {
+            "id": 60921,
+            "namn": "Aleks",
+            "bild": "aleks.jfif"
+        },
+        {
+            "id": 60920,
+            "namn": "Elias",
+            "bild": "elias.jfif"
+        },
+        {
+            "id": 60926,
+            "namn": "Leo",
+            "bild": "leo.jfif"
+        },
+        {
+            "id": 60916,
+            "namn": "Spike",
+            "bild": "spike.jfif"
+        },
+        {
+            "id": 60914,
+            "namn": "Eric",
+            "bild": "eric.jfif"
+        },
+        {
+            "id": 60919,
+            "namn": "Sean",
+            "bild": "sean.jfif"
+        },
+        {
+            "id": 60913,
+            "namn": "Alicia",
+            "bild": "alicia.jfif"
+        },
+        {
+            "id": 60918,
+            "namn": "Johannes",
+            "bild": "johannes.jfif"
+        },
+        {
+            "id": 60917,
+            "namn": "Waldemar",
+            "bild": "waldemar.jfif"
+        },
+        {
+            "id": 60923,
+            "namn": "Kim",
+            "bild": "kim.jfif"
+        },
+        {
+            "id": 60925,
+            "namn": "David",
+            "bild": "david.jfif"
+        },
+        {
+            "id": 60915,
+            "namn": "Ian",
+            "bild": "ian.jfif"
+        }
+    ]
+}
